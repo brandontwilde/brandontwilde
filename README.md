@@ -1,4 +1,4 @@
-👋 Hi, I’m @brandonwilde
+👋 Hi, I’m @brandontwilde
 
 <!--I’m an AI developer captivated by natural language processing, especially multilingual tasks and computational semantics.
 
@@ -9,6 +9,6 @@ Engineer, developer, learner. Obsessed with language models.
 📫 Reach out or follow my journey at [brandontwilde.com](https://brandontwilde.com).
 
 <!---
-brandonwilde/brandonwilde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+brandontwilde/brandontwilde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
